@@ -1,0 +1,32 @@
+body{
+    margin: 0px;
+    font-family: 'Roboto', sans-serif;
+    color: rgba(37, 36, 36, 0.829);
+}
+
+.container, .footer{
+    margin-left: 200px;
+    margin-right: 200px;
+    font-size: 18px;
+}
+.container h1, h2, h3{
+    text-transform: uppercase;
+}
+.footer{
+    border-top:2px solid #536471;
+}
+.footer img{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-right: 15px;
+    width: 100px;
+    float: left;
+}
+.footer h3{
+    font-size: 45px;
+    color: #3C3C3C;
+    margin-top: 35px; 
+}
+.footer_info{
+    clear: both;
+}

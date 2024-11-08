@@ -1,0 +1,48 @@
+*{
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+body{
+  font-family: 'Roboto', sans-serif;
+  color: rgb(243, 241, 241);
+}
+
+
+#wrapper {
+  width: 100%;
+  background: #525252;
+  font-size: 14px;
+}
+.nut-bam {
+  border: none;
+  background: #525252;
+  padding: 10px;
+  cursor: pointer;
+  font-size: 14px;
+  color: rgb(243, 241, 241);
+}
+.nut-bam:hover {
+  background: #adadad;
+}
+
+.container {
+  max-width: 100%;
+  margin: 0px auto;
+}
+
+.container img{
+  width: 600px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.noiDung {
+  margin-left: 21%;
+  margin-right: 20%;
+}
+
+a {
+  color: rgb(179, 245, 185);
+}

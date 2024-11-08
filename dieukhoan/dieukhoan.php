@@ -1,3 +1,7 @@
+<?php 
+    include"../header.php"
+?>
+
 <!DOCTYPE html>
 <html lang="vi">
 <head>
@@ -9,15 +13,6 @@
 
 </head>
 <body>
-    <div class="logo">
-        <img src="https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/logos/Global-Header_MCCB-Logo_300x51.svg" alt="logo">
-        <ul class="main-nav">
-            <li><a href="#">Trang chủ</a></li>
-            <li><a href="#">Thông báo</a></li>
-            <li><a href="#">Sự kiện</a></li>
-            <li><a href="#">Tài khoản</a></li>
-        </ul>
-    </div>
     <div class="container">
         <h1 style="text-align: center; font-size: 22px;">Minecraft End(er)-User License Agreement (“EULA”)</h1>
         <div class="content">
@@ -189,7 +184,7 @@
         </div>
     </div>
     <div class="footer">
-        <img src="images/logo.jpg" alt="logo2">
+        <img src="../images/logo.jpg" alt="logo2">
         <h3>Minecraft</h3>
         <div class="footer_info">
             <h2>Thông tin công ty</h2>
