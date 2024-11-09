@@ -63,6 +63,7 @@
             </div>
         </div>
         <?php }?>
+        <div class="clearfix"></div>
     </div>
     <!--duong dan cho tung tin tuc -->
     <script>

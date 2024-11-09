@@ -21,7 +21,7 @@
             .main-nav li a{
                 text-decoration: none;
                 color:rgb(218, 214, 214);
-                font-size: 110%;
+                font-size: 100%;
                 font-weight: 18px;
                 transition: border-bottom 0.5s;
                 padding: 3px;
